@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  23-04-2011 12:26:39
+#
+$MODULE arDIP28
+Li arDIP28
+Cd 28 pins DIL package, elliptical pads, width 600mil
+Kw DIL
+$EndMODULE
+#
+$EndLIBDOC

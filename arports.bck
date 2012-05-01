@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 27-02-2011 11:05:02
+#
+$CMP ATMEGA8L
+D ATMEGA8L
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/dyn/resources/prod_documents/doc2486.pdf
+$ENDCMP
+#
+#End Doc Library

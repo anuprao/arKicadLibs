@@ -1,0 +1,15 @@
+PCBNEW-LibDoc----V1  23-04-2011 12:02:13
+#
+$MODULE arPower4
+Li arPower4
+Cd Connecteur 4 pibs
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE arSerialPort
+Li arSerialPort
+Cd Connecteur 4 pibs
+Kw CONN DEV
+$EndMODULE
+#
+$EndLIBDOC
