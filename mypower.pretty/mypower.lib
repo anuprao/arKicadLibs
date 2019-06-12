@@ -1,12 +1,32 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# LiPo_4000mAH_Type1
+#
+DEF LiPo_4000mAH_Type1 U 0 40 Y Y 1 F N
+F0 "U" 0 50 50 H V C CNN
+F1 "LiPo_4000mAH_Type1" 0 125 50 H V C CNN
+F2 "mypower:LiPo_4000mAH_Type1" 0 200 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -375 0 375 -400 0 1 0 N
+S 125 -225 275 -250 0 1 0 f
+S 125 -175 275 -200 0 1 0 f
+S 125 -125 275 -150 0 1 0 f
+S 125 -75 275 -350 0 1 0 N
+S 150 -50 175 -75 0 1 0 N
+S 225 -50 250 -75 0 1 0 N
+X VCC_3v7 1 -475 -100 100 R 50 50 1 1 w
+X GND 2 -475 -300 100 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
 # TP4056_Charger_WithProtection
 #
 DEF TP4056_Charger_WithProtection U 0 40 Y Y 1 F N
-F0 "U" 0 75 50 H V C CNN
-F1 "TP4056_Charger_WithProtection" 0 175 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F0 "U" 0 50 50 H V C CNN
+F1 "TP4056_Charger_WithProtection" 0 125 50 H V C CNN
+F2 "mypower:TP4056_Charger_WithProtection" 0 200 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 P 9 0 1 0 -250 0 275 0 275 -25 250 -25 250 -350 275 -350 275 -375 -250 -375 -250 0 N

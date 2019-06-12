@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP myS8050
+D Low Voltage High Current NPN Transistor, SOT-23
+K S8050 NPN Low Voltage High Current Transistor
+$ENDCMP
+#
+#End Doc Library

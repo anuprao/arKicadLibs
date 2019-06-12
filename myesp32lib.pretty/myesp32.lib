@@ -48,7 +48,7 @@ ENDDEF
 DEF esp32_wrover U 0 40 Y Y 1 F N
 F0 "U" 0 75 50 H V C CNN
 F1 "esp32_wrover" 0 150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "myesp32lib:ESP32_Wrover" 50 225 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 S -475 0 475 -2150 0 1 0 N
