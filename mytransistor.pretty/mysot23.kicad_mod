@@ -1,4 +1,4 @@
-(module mysot23 (layer F.Cu) (tedit 5D010ADB)
+(module mysot23 (layer F.Cu) (tedit 5D0150DD)
   (descr mysot23)
   (tags SOT-23)
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 2 smd rect (at -1.5 2.75) (size 1.9 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.5 0.85) (size 1.9 0.8) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
-    (at (xyz 0 0 0))
+    (offset (xyz 0 -1.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
