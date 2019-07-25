@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Buzzer8540
+#
+DEF Buzzer8540 U 0 40 Y Y 1 F N
+F0 "U" 0 50 50 H V C CNN
+F1 "Buzzer8540" 0 125 50 H V C CNN
+F2 "myaudio:buzzer8540" 50 -275 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -175 0 175 -225 0 1 0 N
+X In 1 275 -50 100 L 50 50 1 1 I
+X GND 2 275 -175 100 L 50 50 1 1 I
+X NC 3 -275 -50 100 R 50 50 1 1 I
+X NC 4 -275 -175 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
